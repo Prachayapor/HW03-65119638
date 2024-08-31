@@ -1,0 +1,12 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "fullname": "Prachayaporn Suwannarat",
+        "email": "Prachayaporn.su@mail.wu.ac.th",
+        "password": "1234",
+        "gender": "Female"
+      }
+    ]
+  }
+  
